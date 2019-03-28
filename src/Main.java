@@ -4,3 +4,6 @@ public class Main {
 	// write your code here
     }
 }
+class Calc1{
+
+}
