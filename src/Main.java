@@ -5,5 +5,7 @@ public class Main {
     }
 }
 class Calc1{
-
+public double Add2(double x, double y){
+    return x+y;
+}
 }
